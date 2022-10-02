@@ -20,5 +20,8 @@
   "homepage": "https://github.com/86andrey/node-hw1#readme",
   "devDependencies": {
     "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "nanoid": "^3.3.4"
   }
 }
